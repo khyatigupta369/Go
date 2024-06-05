@@ -1,6 +1,4 @@
-# : Learning GoLang 
-
-Welcome to the GoLang Example Project! This repository contains a simple Go application that demonstrates basic concepts and practices in Go programming.
+# Learning GoLang 
 
 ## Introduction
 
@@ -17,14 +15,11 @@ This project serves as a starting point for developers new to Go. It includes ba
     ```bash
     go build
     ```
-
-## Usage
-
-After running the project, you can see the output directly in your terminal. Modify the source code in `main.go` to add more functionalities and experiment with different Go features.
+3. After running the project, you can see the output directly in your terminal. Modify the source code in `main.go` to add more functionalities and experiment with different Go features.
 To run the file, in the same directory -
-```bash
-go run main.go
-```
+    ```bash
+    go run main.go
+    ```
 
 ## Resources
 
